@@ -1,0 +1,13 @@
+,Azarbayjan,Gilan,Mazandaran,Kordestan,Tehran,Isfahan,Khorasan,Khozestan,Fars,Balochestan,Bushehr,Hormozgan
+Azarbayjan,0,1,2,1,1,2,3,2,2,3,3,3
+Gilan,1,0,1,2,1,1,2,2,2,2,3,3
+Mazandaran,2,1,0,3,2,1,1,3,2,2,3,3
+Kordestan,1,2,3,0,1,2,3,1,2,3,2,3
+Tehran,1,1,2,1,0,1,2,1,1,2,2,2
+Isfahan,2,1,1,2,1,0,1,2,1,1,2,2
+Khorasan,3,2,1,3,2,1,0,3,2,1,3,3
+Khozestan,2,2,3,1,1,2,3,0,1,2,1,2
+Fars,2,2,2,2,1,1,2,1,0,1,1,1
+Balochestan,3,2,2,3,2,1,1,2,1,0,2,1
+Bushehr,3,3,3,2,2,2,3,1,1,2,0,1
+Hormozgan,3,3,3,3,2,2,3,2,1,1,1,0
